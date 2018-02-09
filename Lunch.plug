@@ -1,0 +1,9 @@
+[Core]
+Name = Lunch
+Module = Lunch
+
+[Documentation]
+Description = This is a plugin for Lunch Dates
+
+[Python]
+Version = 2+
