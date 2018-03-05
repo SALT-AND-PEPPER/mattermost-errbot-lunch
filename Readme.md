@@ -11,13 +11,13 @@ and here http://errbot.io/en/latest/user_guide/plugin_development/
 ## Installation
 
 ```bash
-!repo install https://github.com/SALT-AND-PEPPER/LunchMattermost
+!repo install https://github.com/SALT-AND-PEPPER/mattermost-errbot-lunch
 ```
 
 ## Example
 
 ```TypeScript
-!lunch add 20 CP or !lunch_add CP 20 adds you to the 12:20 group with desired place: CP
+!lunch add 20 CP or !lunch add CP 20 adds you to the 12:20 group with desired place: CP
 !lunch add 20 adds you to the 12:20 group, place wherever
 !lunch add CP adds you to the 12:00 group with desired place CP
 !lunch add adds you randomly to one group
